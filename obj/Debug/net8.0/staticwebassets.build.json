@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "39v/l9r6HaDwlg1xlXOgeDW3I4yZ0EUB9qft5dVZmac=",
+  "Source": "dotnet-docker-aks",
+  "BasePath": "_content/dotnet-docker-aks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
